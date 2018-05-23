@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.form-signup{
+  text-align: center;
+  max-width: 500px;
+  height: 100px; 
+}
+.content {
+  margin-left: 700px;
+  margin-top: 200px;
+  text-align: center;
+	justify-content: center;
+	align-items: center; 
+}
